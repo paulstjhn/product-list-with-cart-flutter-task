@@ -2,7 +2,7 @@
 
 **Flutter Mentorship Program — Final Project Brief**
 
-You've already built this product once. You know the features, the user flows, and what the end result should feel like. Now you're going to build it again — in Flutter.
+You must've already built this once in JavaScript. You know the features, the user flows, and what the end result should feel like. Now you're going to build it again — in Flutter.
 
 This isn't about learning what to build. It's about proving you understand how to build it the Flutter way: clean widget structure, proper state management with BLoC, and code that a teammate could actually read and maintain.
 
